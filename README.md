@@ -4,7 +4,7 @@
 My name is Jeff and I'm currently a PhD student within the biology & neuroscience departments. Concurrently I manage the visual electrodiagnostic lab which is housed in the IWK Health Centre, Halifax NS. My clinical and research interests are currently exploring the application of machine learning algorithms in visual electrodiagnostic testing in both people and animal models of ocular disorders.
 
 # Background
-I'm originally from Cape Breton (NS) where I completed my undergraduate degree at Cape Breton University. I then completed the Orthoptic training program (2013) and my MSc in Clinical Vision Science (2018) at Dalhousie University (Halifax), and since then have been working as a allied health professional primarily within the field of ***visual electrodiagnostics*** at the Hospital for Sick Children (Toronto), and now the IWK (Halifax). 
+I'm originally from Cape Breton (NS) where I completed my undergraduate degree at Cape Breton University. I then completed the Orthoptic training program (2013) and my MSc in Clinical Vision Science (2018) at Dalhousie University (Halifax), and since then have been working as an allied health professional primarily within the field of ***visual electrodiagnostics*** at the Hospital for Sick Children (Toronto), and now the IWK (Halifax). 
 
 # Personal 
 Outside of academics/work I enjoy staying active and have previously taught group fitness classes (2014-2019) as a hobby, and have been part of the Crossfit community since 2017. My two puppies (basset hound & beagle) keep me busy otherwise with consistenly unpredictable walks depending on what their noses discover. 
